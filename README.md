@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaik Tanzeela</h1>
 <h3 align="center">"SDET in Training | Focused on Automation Frameworks and Testing Excellence"</h3>
 
+<h3 align="left">🌟 About Me:</h3>
+<p align="left">
+Hi there! I'm Shaik Tanzeela, a passionate Software Development Engineer in Test (SDET) with expertise in both manual and automation testing. I thrive on ensuring software quality and building reliable test frameworks with tools like Cypress, Selenium, and Postman.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeela05-bit&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeela05-bit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzeela05-bit" alt="tanzeela05-bit" /></a> </p>
