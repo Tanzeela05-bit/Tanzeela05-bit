@@ -24,6 +24,7 @@
 <h3 align="left">🏆 Achievements:</h3>
 <p align="left"> 
 Masai Speaking Marathon Season XVIII Half-Marathon: Completed 26 sprints in under a month, enhancing communication and presentation skills.
+<p align="left"> 
 Manual Testing Certification: Mastered manual testing techniques and applied them to real-world projects.
 
 
